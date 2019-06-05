@@ -1,0 +1,4 @@
+[AutoRun]
+OPEN=Open.bat
+ICON=Open.bat
+ACTION=Start Cleaning Menu
